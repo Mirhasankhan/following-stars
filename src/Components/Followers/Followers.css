@@ -1,0 +1,15 @@
+.set-data{
+    display: flex;
+    border-right: 2px solid gray;
+}
+.set-data img{
+    height: 150px;
+    border-radius: 50%;
+}
+.img-info{
+    margin-right: 20px;
+}
+.text-info{
+    text-align: left;
+    
+}

@@ -1,0 +1,25 @@
+.header{
+    display: flex;
+    border-bottom: 2px solid lightgray;
+   padding-bottom: 20px;
+    
+}
+.header img{
+    height: 50px;
+}
+.header input{
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+    width: 200px;
+}
+.home-logo{
+    margin-left: 100px;
+}
+.msg-logo{
+    margin-left: 700px;
+}
+.profile-logo{
+    margin-left: 20px;
+    border-radius: 20px;
+}
